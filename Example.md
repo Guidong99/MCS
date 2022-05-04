@@ -4,7 +4,7 @@
 
 For data SXA1E, SXP1E, SXW1E and SXXP, we construct 160 models by R:
 
-> *( AVGARCH, AVGARCH, NGARCH, TGARCH,  apARCH, csGARCH, eGARCH, gjrGARCH, iGARCH, sGARCH )$\times$
+> *( AVGARCH, AVGARCH, NGARCH, TGARCH,  apARCH, csGARCH, eGARCH, gjrGARCH, iGARCH, sGARCH ) ![](http://latex.codecogs.com/gif.latex?\\times)
 (ged, ghyp, jsu, norm, sged, snorm, sstd, std)  ![](http://latex.codecogs.com/gif.latex?\\times)
 (mean, no mean)*
 
@@ -90,7 +90,7 @@ mcs=Gain_mcs('MMM',0.2)
 mcs.included
 ```
 
-The value of $\alpha$ is chosen as 0.2. After filtering the final results of the remaining models:
+The value of ![](http://latex.codecogs.com/gif.latex?\\alpha)is chosen as 0.2. After filtering the final results of the remaining models:
 
 | **Company** | **Included Models**          |
 |-------------|------------------------------|
