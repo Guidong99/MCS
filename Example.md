@@ -5,7 +5,7 @@
 For data SXA1E, SXP1E, SXW1E and SXXP, we construct 160 models by R:
 
 > *( AVGARCH, AVGARCH, NGARCH, TGARCH,  apARCH, csGARCH, eGARCH, gjrGARCH, iGARCH, sGARCH )$\times$
-(ged, ghyp, jsu, norm, sged, snorm, sstd, std)$\times$
+(ged, ghyp, jsu, norm, sged, snorm, sstd, std)  ![](http://latex.codecogs.com/gif.latex?\\times)
 (mean, no mean)*
 
 * Get loss (R)
