@@ -9,8 +9,12 @@ Since the `MCSproduce`method in R's `MCS` package runs too slowly, I only use R 
 Run following code:
 
 ```
+library(usethis)
 library(devtools)
 install_github("Guidong99/MCS/MCSLoss")
+library(MCSLoss)
+library(rugarch)
+library(MCS)
 ```
 
 ## Get loss
