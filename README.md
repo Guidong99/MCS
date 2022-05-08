@@ -62,3 +62,5 @@ Run the following code to get the result:
 mcs = ModelConfidenceSet(Loss,alpha=0.2,B=2000,w=3,algorithm="SQ").run()
 stat(mcs)
 ```
+👇
+[EXAMPLE](https://github.com/Guidong99/MCS/blob/main/Example/Example.md)
